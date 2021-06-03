@@ -13,5 +13,6 @@ public class strinma {
 		} else {
 			System.out.println("Drop the review");
 		}
+		
 	}
 }
